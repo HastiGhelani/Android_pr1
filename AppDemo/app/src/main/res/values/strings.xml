@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppDemo</string>
+    <string-array name="courses">
+        <item>Integrated M.ScIT</item>
+        <item>BCA</item>
+        <item>B.Sc.IT</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Navsari</item>
+        <item>Surat</item>
+        <item>Valsad</item>
+        <item>Ahemdabad</item>
+    </string-array>
+    <string name="chkCondition">Please Accept the Terms and Condition</string>
+</resources>
